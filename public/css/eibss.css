@@ -1,0 +1,76 @@
+.app-beta__container {
+  border-bottom: 1px solid #d8dde0;
+  padding: 8px 0;
+}
+
+.app-beta__content {
+  display: table;
+  margin-bottom: 0;
+}
+
+.nhsuk-main-wrapper {
+  padding-top: 0 !important;
+}
+
+.app-beta__text {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.header-links {
+  float: right !important;
+  color: #fff;
+  padding-top: 4px;
+}
+
+.header-links a {
+  color: #FFF !important;
+  text-decoration: none;
+}
+
+.header-links-clr {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.header-links .nhsuk-account-navigation__link {
+  padding: 14px 7px 8px !important;
+}
+
+.nhsuk-account-navigation__link:hover {
+  border-bottom: 4px solid #d8dde0 !important;
+}
+
+.container {
+  margin-top: 30px !important;
+}
+
+.govuk-tabs__panel {
+  background: #ffffff;
+}
+
+.edit {
+  float: right;
+  margin-top: 10px;
+}
+
+.tab-row {
+  margin-top: 30px;
+}
+
+#table-text {
+  vertical-align: middle;
+}
+
+.theader-text {
+  padding-top: 22px;
+}
+
+.spacer {
+  padding-top: 30px;
+}
+
+.date-title {
+  padding-top: 35px;
+}
